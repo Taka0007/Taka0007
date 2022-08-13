@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Takahiro
-- 👀 I’m interested in Math.
+- 👋 Hi, I’m Takahiro Namatame.
+- 👀 I’m interested in discrete mathematics.
 - 🌱 I’m currently learning about economics.
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
