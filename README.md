@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taka.
-- 👀 I’m interested in discrete mathematics.
-- 🌱 I’m currently learning about economics.
+- 👀 I’m interested in discrete mathematics and Data-Science.
+- 🌱 I’m currently learning about economics and information.
 - 💞️ I’m looking to collaborate on data science.
 - 📫 How to reach me Twitter????
 
