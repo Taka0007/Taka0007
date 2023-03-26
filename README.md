@@ -12,6 +12,7 @@ Heuristic
 
 
 # Github
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
