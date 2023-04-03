@@ -8,7 +8,7 @@ Algorithm
 [![Taka007](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTaka007)](https://atcoder.jp/users/Taka007)
 <br>
 Heuristic
-[![Rating(Heuristic)](https://badgen.org/img/atcoder/Taka007/rating/heuristic?style=plastic)](https://atcoder.jp/users/Taka007?contestType=heuristic)
+[![Taka007](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTaka007)](https://atcoder.jp/users/Taka007?contestType=heuristic)
 
 
 # Github
