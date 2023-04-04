@@ -1,7 +1,10 @@
 # Hello!
 - 👋 Hi, I’m Taka.
 - 👀 I’m interested in discrete mathematics and Data-Science.
-- 🌱 I’m currently learning about economics and information.
+- 🌱 I’m currently learning about economics and information.<br>
+
+My website
+→https://taka0007.github.io/About-Taka.io/
 
 # AtCoder
 Algorithm
