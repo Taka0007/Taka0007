@@ -19,7 +19,7 @@ Heuristic
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Qiita
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Taka-007/contributions.svg)](http://qiita.com/Taka-007)
