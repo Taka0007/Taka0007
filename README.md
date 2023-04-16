@@ -3,8 +3,21 @@
 - 👀 I’m interested in discrete mathematics and Data-Science.
 - 🌱 I’m currently learning about economics and information.<br>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=blue)
+
 My website
 →https://taka0007.github.io/About-Taka.io/
+
+
+# Github
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka0007&theme=vue)
+
+
 
 # AtCoder
 Algorithm
@@ -14,12 +27,6 @@ Heuristic
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/Taka007/rating/heuristic?style=plastic)](https://atcoder.jp/users/Taka007?contestType=heuristic)
 
 
-
-# Github
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Qiita
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Taka-007/contributions.svg)](http://qiita.com/Taka-007)
