@@ -13,10 +13,9 @@ My website
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka0007&theme=vue)
-
 
 
 # AtCoder
