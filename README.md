@@ -1,7 +1,7 @@
 # Hello!
 - 👋 Hi, I’m Taka.
 - 👀 I’m interested in discrete mathematics and Data-Science.
-- 🌱 I’m currently learning about economics and information.<br>
+- 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=blue)
 
