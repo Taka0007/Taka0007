@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=green&right_color=red)
 
 My website
 →https://taka0007.github.io/About-Taka.io/
