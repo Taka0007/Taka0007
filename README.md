@@ -28,7 +28,9 @@ Heuristic
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/Taka007/rating/heuristic?style=plastic)](https://atcoder.jp/users/Taka007?contestType=heuristic)
 
 
-
+<!-- 
 # Qiita
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Taka-007/contributions.svg)](http://qiita.com/Taka-007)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-007/posts.svg)](http://qiita.com/Taka-007)
+
+-->
