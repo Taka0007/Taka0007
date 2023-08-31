@@ -34,5 +34,6 @@ Heuristic
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-007/posts.svg)](http://qiita.com/Taka-007)
 
 -->
-![visitors](![Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=green))
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=green&right_color=red)
+
+<!-- 　[visitors]([Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=green))  -->
+<!-- 　[visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=green&right_color=red)  -->
