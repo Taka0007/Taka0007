@@ -9,6 +9,9 @@
 My website
 →https://taka0007.github.io/About-Taka.io/
 
+Library Page
+→https://taka0007.github.io/Library/
+
 
 # Github
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
