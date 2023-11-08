@@ -14,7 +14,7 @@ Library Page
 
 
 # Github
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&theme=vue) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&hide=jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
