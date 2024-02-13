@@ -12,15 +12,15 @@ My website
 Library Page
 →https://taka0007.github.io/Library/
 
-
+<!-- 
 # Github
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka0007&show_icons=true&count_private=true&include_all_commits=true&theme=vue) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&hide=jupyter%20notebook&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka0007&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Taka0007&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka0007&theme=vue)
-
+ -->
 
 # AtCoder & LeetCode
 Algorithm
