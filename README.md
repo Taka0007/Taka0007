@@ -40,3 +40,6 @@ Heuristic
 
 <!-- 　[visitors]([Visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=gray&right_color=green))  -->
 <!-- 　[visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=green&right_color=red)  -->
+
+
+![GitHub persona](https://read-413014.an.r.appspot.com/create?username=Taka0007)
