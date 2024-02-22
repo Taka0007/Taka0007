@@ -42,4 +42,4 @@ Heuristic
 <!-- 　[visitors](https://visitor-badge.glitch.me/badge?page_id=Taka0007&left_color=green&right_color=red)  -->
 
 
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=Taka0007)
+<!--　![GitHub persona](https://read-413014.an.r.appspot.com/create?username=Taka0007)  -->
