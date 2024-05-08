@@ -1,4 +1,4 @@
-# Self-introduction
+## Self-introduction
 <a href="https://github.com/Taka0007">
     <img src="https://komarev.com/ghpvc/?username=Taka0007&color=ff69b4&style=flat)" />
   </a>
@@ -11,7 +11,7 @@
 - Data-Science
 - Discrete mathematics
 
-
+## Web&Library
 My website
 →https://taka0007.github.io/About-Taka.io/
 
