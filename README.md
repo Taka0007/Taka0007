@@ -2,6 +2,7 @@
 <a href="https://github.com/Taka0007">
     <img src="https://komarev.com/ghpvc/?username=Taka0007&color=ff69b4&style=flat)" />
   </a>
+  
 - 👋 Hi, I’m Taka.
 - 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
 
