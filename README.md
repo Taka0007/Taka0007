@@ -1,11 +1,16 @@
-# Hello!
-- 👋 Hi, I’m Taka.
-- 👀 I’m interested in discrete mathematics and Data-Science.
-- 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
-
-  <a href="https://github.com/Taka0007">
+# Self-introduction
+<a href="https://github.com/Taka0007">
     <img src="https://komarev.com/ghpvc/?username=Taka0007&color=ff69b4&style=flat)" />
   </a>
+- 👋 Hi, I’m Taka.
+- 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
+
+## Interst
+- Game theory
+- Data-Science
+- Discrete mathematics
+
+
 My website
 →https://taka0007.github.io/About-Taka.io/
 
