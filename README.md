@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Taka.
 - 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
 
-## Interst
+## Interest
 - Game theory
 - Data-Science
 - Discrete mathematics
