@@ -12,11 +12,15 @@
 - Discrete mathematics
 
 ## Web&Library
+<!--
 My website
-→https://taka0007.github.io/About-Taka.io/
+→ https://taka0007.github.io/About-Taka.io/ 
+-->
+My website
+→ https://taka0007.github.io/My-page/
 
 Library Page
-→https://taka0007.github.io/Library/
+→ https://taka0007.github.io/Library/
 
 <!-- 
 # Github
