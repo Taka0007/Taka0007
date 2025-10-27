@@ -10,20 +10,24 @@
 - Game theory
 - Data-Science
 - Discrete mathematics
+- Financial Engineering
 
 ## Awards
 - GeoSciAI2025 太陽風部門 学生賞 （[Link](https://sites.google.com/jpgu.org/geosciai2025)）
 
+
+## Kaggle
+- BirdCLEF+ 2025 銅メダル (109th/2027)  [Certification Link](https://www.kaggle.com/certification/competitions/takahironamatame/birdclef-2025)
 
 ## Web & Library
 <!--
 My website
 → https://taka0007.github.io/About-Taka.io/ 
 -->
-My website
+My website (WIP)
 → https://taka0007.github.io/My-page/
 
-Library Page
+Library Page (WIP)
 → https://taka0007.github.io/Library/
 
 <!-- 
