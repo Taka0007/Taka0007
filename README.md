@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=Taka0007&color=ff69b4&style=flat)" />
   </a>
   
-- 👋 Hi, I’m Taka.
+- 👋 Hi, I’m Takahiro Namatame!
 - 🌱 I’m currently learning about Economics and Information and Finance and Mathematical statistics.<br>
 
 ## Interest
@@ -11,7 +11,11 @@
 - Data-Science
 - Discrete mathematics
 
-## Web&Library
+## Awards
+- GeoSciAI2025 太陽風部門 学生賞 （[Link](https://sites.google.com/jpgu.org/geosciai2025)）
+
+
+## Web & Library
 <!--
 My website
 → https://taka0007.github.io/About-Taka.io/ 
